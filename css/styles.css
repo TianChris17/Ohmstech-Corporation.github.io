@@ -78,16 +78,6 @@ body{
 
     background-color: #019eff;
 }
-
-.brandFrame{
-
-    border-radius: 25px;
-
-    background-color: white;
-
-    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-}
-
 /* --------------------------------------------------------------------------------------- */
 
 /*   OUR BRAND */
@@ -102,6 +92,20 @@ body{
 
     background-color: #019eff;
 }
+
+@media (min-width: 576px){
+
+    .brandFrame{
+
+    border-radius: 25px;
+
+    background-color: white;
+
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    
+    }
+}
+
 /* --------------------------------------------------------------------------------------- */
 
 /* GET IN TOUCH */
