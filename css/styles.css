@@ -79,7 +79,64 @@ body{
     background-color: #019eff;
 }
 
+.brandFrame{
+
+    border-radius: 25px;
+
+    background-color: white;
+
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
 /* --------------------------------------------------------------------------------------- */
+
+/*   OUR BRAND */
+
+.ourBrands{
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.ourBrandContainer{
+
+    background-color: #019eff;
+}
+/* --------------------------------------------------------------------------------------- */
+
+/* GET IN TOUCH */
+
+.getInTouch{
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.8rem;
+}
+.btnContact{
+
+    border: none;
+    outline: none;
+
+    background-color: #c6324c;
+
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 1.3rem;
+
+    border-radius: 50px;
+
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+
+}
+.btnContact:hover{
+
+    transform: scale(1.1);
+}
+
+
+/* ----------------- */
 
 /*   FOOTER DESIGN    */
 
