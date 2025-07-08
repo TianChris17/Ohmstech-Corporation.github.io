@@ -218,7 +218,152 @@ footer{
     color: orangered;
 }
 
+/* ------------------------------------------------------------------------------------- */
 
+
+
+
+/* About Us Page */
+
+.aboutUsPage{
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+
+    border-left: 2px solid red;
+    
+}
+.aboutUsPageContainer{
+
+    margin-top: 120px;
+}
+.aboutUsDes{
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+.aboutUsDesSpan{
+
+    border-bottom: 100px;
+}
+
+/* STARTED */
+
+.founded{
+
+    font-family: "Poppins" sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+
+    background-color: #019eff;
+}
+.started{
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.vission{
+
+    font-family: "Poppins" sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+
+    background-color: #019eff;
+}
+.mission{
+
+    font-family: "Poppins" sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+
+    background-color: #019eff;
+}
+.missionDes{
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+.vissionDes{
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+.coreValues{
+
+    font-family: "Poppins" sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+
+    background-color: #019eff;
+}
+.safety{
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+.safetyDes{
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.2rem;
+}
+.integrity{
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+.integrityDes{
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.2rem;
+}
+.leadership{
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+.leadershipDes{
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.2rem;
+}
+.knowledgeable{
+
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+.knowledgeableDes{
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.2rem;
+}
+
+/*-------------------------------*/
 
 
 /* ------------------------------------------------------------------------------------- */
