@@ -2,8 +2,8 @@
 
 body{
 
-    width: 100%;
-    height: 120vh;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 /* -------------------------------------------------------------------------------------------------- */
@@ -85,14 +85,11 @@ body{
 .ourBrands{
 
     font-family: "Poppins", sans-serif;
-    font-weight: 500;
+    font-weight: 700;
     font-style: normal;
-}
-.ourBrandContainer{
 
     background-color: #019eff;
 }
-
 @media (min-width: 576px){
 
     .brandFrame{
@@ -230,8 +227,6 @@ footer{
     font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: bold;
-
-    border-left: 2px solid red;
     
 }
 .aboutUsPageContainer{
@@ -242,14 +237,9 @@ footer{
 
     font-family: "Poppins", sans-serif;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 300;
     font-size: 1.3rem;
 }
-.aboutUsDesSpan{
-
-    border-bottom: 100px;
-}
-
 /* STARTED */
 
 .founded{
@@ -266,8 +256,35 @@ footer{
     font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 300;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
+
     text-align: justify;
+}
+
+@media (max-width: 1007px)
+
+{
+
+    .ohmstechStartUpPic {
+
+        width: 400px;
+        height: auto;
+
+    }
+
+}
+
+@media (max-width: 640px)
+
+{
+
+    .ohmstechStartUpPic {
+
+        width: 300px;
+        height: auto;
+
+    }
+
 }
 .vission{
 
@@ -292,14 +309,14 @@ footer{
     font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 300;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 .vissionDes{
 
     font-family: "Poppins", sans-serif;
     font-style: normal;
     font-weight: 300;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
 .coreValues{
 
@@ -335,6 +352,7 @@ footer{
     font-weight: 300;
     font-style: normal;
     font-size: 1.2rem;
+    
 }
 .leadership{
 
@@ -348,6 +366,8 @@ footer{
     font-weight: 300;
     font-style: normal;
     font-size: 1.2rem;
+
+    text-align: justify;
 }
 .knowledgeable{
 
@@ -361,6 +381,8 @@ footer{
     font-weight: 300;
     font-style: normal;
     font-size: 1.2rem;
+
+    text-align: justify;
 }
 
 /*-------------------------------*/
