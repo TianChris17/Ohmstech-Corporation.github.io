@@ -2,7 +2,7 @@ function addAndRemoveClassToContactUs()
 {
     
     const getContactId = document.getElementById('contactUs');
-    const removeActiveClass = document.getElementById('whatWeDo');
+    const removeActiveClass = document.getElementById('product');
 
     function addActiveClass(){
 
